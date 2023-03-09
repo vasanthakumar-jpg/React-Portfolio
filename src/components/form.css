@@ -1,0 +1,111 @@
+/* 
+.body {
+    background-color:#E4E4E4;
+  } */
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    height: 100px;
+  }
+  .card {
+    /* margin: 150px auto; */
+    width: 450px;
+    /* padding: 25px; */
+    border-radius: 16px;
+    height: 320px;
+    background-color:white;
+    /* margin-bottom: 35px; */
+
+  }
+  h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+  
+  .card div {
+    margin-top: 3px;
+  }
+  label {
+    color: grey;
+    padding-left: 24px;
+    font-size: 16px;
+  }
+  /* label2 {
+    color: grey;
+    padding-left: 4px;
+    font-size: 16px;
+  }
+  label3 {
+    color: grey;
+    padding-left: 4px;
+    font-size: 16px;
+  } */
+  /* textarea
+  {
+    box-sizing: none;
+  } */
+  error {
+    font-size: 14px;
+    color: #ff6774;
+    margin-left: 120px;
+  }
+  .i1 {
+    width: 230px;
+    height: 25px;
+    background-color:white;
+    font-size: 16px;
+    /* border: 1px solid rgb(136, 114, 114); */
+    border-radius: 5px;
+    margin-left: 50px;
+
+    /* box-shadow: 3px  #27225cea; */
+  }
+  .i2 {
+    width: 230px;
+    height: 25px;
+    background-color:white;
+    font-size: 16px;
+    /* border: 1px solid rgb(136, 114, 114); */
+    border-radius: 5px;
+    margin-left: 54px;
+    /* box-shadow: 3px  #27225cea; */
+  }
+  
+  .i3 {
+    width: 230px;
+    height: 25px;
+    background-color:white;
+    font-size: 16px;
+    /* border: 1px solid rgb(136, 114, 114); */
+    border-radius: 5px;
+    margin-left: 24px;
+    /* box-shadow: 3px  #27225cea; */
+  }
+  .i4 {
+    width: 230px;
+    height: 25px;
+    background-color:white;
+    font-size: 16px;
+    /* border: 1px solid rgb(136, 114, 114); */
+    border-radius: 5px;
+    margin-left: 30px;
+    /* box-shadow: 3px  #27225cea; */
+  }
+  
+  .button {
+    cursor: pointer;
+    width: 90px;
+    color: #fff;
+    height: 30px;
+    background-color: #0d6efd;
+    border: 0;
+    /* font-weight: 400; */
+    /* text-align: center; */
+    font-size: 16px;
+    border-radius: 0.25rem;
+    margin-top: 20px;
+  }

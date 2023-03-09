@@ -1,0 +1,49 @@
+Grid
+{
+    /* display: flex; */
+    display: table-column;
+}
+span
+{
+    color: #6041e7;
+    font-size:120%;
+    font-family: serif;
+}
+.icon1:hover
+{
+transform:rotate(1090deg);
+transition: .3s;
+}
+.icon2:hover
+{
+transform:rotate(1090deg);
+transition: .3s;
+}
+.icon3:hover
+{
+transform:rotate(1090deg);
+transition: .3s;
+}
+.icon4:hover
+{
+transform:rotate(1090deg);
+transition: .3s;
+}
+button
+{
+    background-color: #1976D2;
+    border: 0;
+    
+}
+button a
+{
+    text-decoration: none;
+    height: 40px;
+    background-color: #1976D2;
+    font-size: 14px;
+    color: white;
+}
+button a:hover
+{
+    color: white;
+}
